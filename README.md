@@ -6,6 +6,11 @@ I am an undergraduate student that enjoys creating side projects for fun. This p
 
 ## Featured Project(s)
 
+### [The Cube Thing](https://github.com/Cotaroy/TheCubeThing)
+- The repo is private for now because the course, I made this for is ongoing
+- The Cube Thing is an interactive, right-angle-edged, last-gen spinning cube and rectangular prism raytraced ASCII-art renderer of medium advancedness, middling impressivity, and insurmountable coolness
+- [Demo](https://youtu.be/UxQB3jfsUAE)
+
 ### [Sprout](https://github.com/Cotaroy/Sprout)
 - Gamified to do list app, that grows a tree when you complete tasks
 - Has bits of lore that incentivize interacting with it daily
